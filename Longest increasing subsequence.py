@@ -1,4 +1,4 @@
-#Dynamicznie znajduje długość najdłuższego podciągu spójnego
+#Dynamically finds the length of the longest increasing subsequence
 def LIS(A):
     n=len(A)
     F=[1]*n
