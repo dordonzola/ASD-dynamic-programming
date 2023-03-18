@@ -1,4 +1,4 @@
-#Dynamicznie znajduje długość najdłuższego podciągu sumującego się do T
+#Dynnamically finds the length of the longest subsequence summing to T
 
 def T_sum(A,T):
     n=len(A)
