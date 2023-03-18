@@ -1,5 +1,4 @@
-#Dynamicznie znajduje długość najdłuższego podciągu dwóch ciągów (niekoniecznie spójnego)
-
+#Dynamically finds the length of the longest common subsequence of two sequences 
 def lcs(A,B):
     n=len(A)
     m=len(B)
